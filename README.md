@@ -3,7 +3,7 @@
 ## Table of Contents
 
 <details open>
-<summary>Click to collapse</summary>
+<summary>Click to collapse/expand</summary>
 
 - [Table of Contents](#table-of-contents)
 - [My Website](#my-website)
