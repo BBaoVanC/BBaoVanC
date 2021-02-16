@@ -2,11 +2,16 @@
 
 ## Table of Contents
 
+<details open>
+<summary>Click to collapse</summary>
+
 - [Table of Contents](#table-of-contents)
 - [My Website](#my-website)
 - [My Software](#my-software)
 - [My Configurations](#my-configurations)
   - [Forks](#forks)
+
+</details>
 
 ## My Website
 
