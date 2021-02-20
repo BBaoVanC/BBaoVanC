@@ -1,16 +1,7 @@
 # bbaovanc
 
-## Table of Contents
-
-<details open>
-
-- [Table of Contents](#table-of-contents)
-- [My Website](#my-website)
-- [My Software](#my-software)
-- [My Configurations](#my-configurations)
-  - [Forks](#forks)
-
-</details>
+<details>
+<summary>Click to expand</summary>
 
 ## My Website
 
@@ -38,3 +29,5 @@
 - [dmenu fork](https://github.com/BBaoVanC/dmenu)
 - [dwm fork](https://github.com/BBaoVanC/dwm)
 - [dwmblocks fork](https://github.com/BBaoVanC/dwmblocks)
+
+</details>
