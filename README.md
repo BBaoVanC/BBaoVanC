@@ -1,6 +1,7 @@
 # bbaovanc
 
 - [Main Site](https://bbaovanc.com/)
+- [Contact Me](https://bbaovanc.com/contact/)
 - [Blog](https://bbaovanc.com/blog/)
 - [More Links](https://bbaovanc.com/blog/links/)
 
